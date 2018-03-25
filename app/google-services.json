@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481999776356",
+    "firebase_url": "https://coba-id.firebaseio.com",
+    "project_id": "coba-id",
+    "storage_bucket": "coba-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481999776356:android:fad84f6ae3f74306",
+        "android_client_info": {
+          "package_name": "com.example.ghotasyi.smpbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481999776356-okr3723m84tuv5leessg0dkar9j5m1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47kH7tBeAddnHAJhes4xwHz3fBColgGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
